@@ -1,0 +1,3 @@
+// These variables are injected at deploy time by Netlify
+window.SUPABASE_URL = "https://pbnuiqmbtrkxfxpuhjdf.supabase.co";
+window.SUPABASE_ANON_KEY ="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBibnVpcW1idHJreGZ4cHVoamRmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjI2NzAxMDAsImV4cCI6MjA3ODI0NjEwMH0.0UrScB58079X2Rj-Z6GGzUAeXSBEKV84Vl09uODYXxo";
